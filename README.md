@@ -1,8 +1,5 @@
 # 16 grudzien FED
 zmiana nr 1
-
-
-BLABLABLA
-=======
-nowy branch testowy
-
+zmiana nr 2
+zmiana nr 3
+zmiana nr 4
